@@ -1,0 +1,4 @@
+supervision
+ultralytics
+inference
+pytube
